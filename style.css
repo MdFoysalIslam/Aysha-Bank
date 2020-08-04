@@ -1,0 +1,33 @@
+body{
+    padding: 100px;
+}
+.submit-area{
+    margin-top: 50px;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+#transaction-area{
+    display: none;
+}
+.deposit {
+    background-color: rgb(97, 245, 195);
+    box-shadow: 5px 5px 10px rgb(6, 201, 158);
+
+}
+.withdraw {
+    background-color: red;
+    box-shadow: 5px 5px 10px rgb(146, 12, 12);
+}
+.balance{
+    background-color: rgb(51, 141, 224);
+    box-shadow: 5px 5px 10px rgb(91, 57, 241); 
+}
+.status{
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    
+}
